@@ -666,7 +666,7 @@ class Vehicles {
           rDiff.y *= t;
         }
         const vtUpdate = this._getUpdateData(vt, rDiff);
-        requestBatch.updateToken(vehicleScene, vtUpdate);
+        requestBatch.updateToken(vehicleScene, vtUpdate, false);
         handled[vtId] = VEHICLES.TOKEN_HANDLED_ALL;
 
         const controller = this._controllerMap[this._uniqueId(vehicleScene, vt)];
