@@ -25,7 +25,7 @@
       "path": "lang/ja.json"
     }
   ],
-  "url": "https://github.com/grandseiken/foundryvtt-vehicles-and-mechanisms",
-  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-vehicles-and-mechanisms/master/module.json",
-  "download": "https://github.com/grandseiken/foundryvtt-vehicles-and-mechanisms/archive/v0.3.0.zip"
+  "url": "https://github.com/nloew/foundryvtt-vehicles-and-mechanisms",
+  "manifest": "https://raw.githubusercontent.com/nloew/foundryvtt-vehicles-and-mechanisms/master/module.json",
+  "download": "https://github.com/nloew/foundryvtt-vehicles-and-mechanisms/archive/refs/tags/v0.3.1.zip"
 }
